@@ -1,0 +1,9 @@
+*.in
+*.out
+*.exe
+*.ans
+*.o
+*.stdout
+makefile
+/.metadata/
+/.vscode/
